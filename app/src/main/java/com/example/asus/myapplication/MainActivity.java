@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.btnoff:
 
             break;
-        }
+        } //a
     };
     @Override
     protected void onDestroy() {
